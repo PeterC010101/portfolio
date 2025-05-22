@@ -2,7 +2,8 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/user-attachments/assets/c1125a61-7000-4374-83f0-2a1033f13b3f)
+![image](https://github.com/user-attachments/assets/93a144c2-6a7e-4781-b44b-3b0be7c9bfc6)
+
 
 ## Ferramentas utilizadas:
 
@@ -14,8 +15,8 @@
 
 ## Feito por:
 
-### Pedro Cerqueira
+### Joana Santos
 
-### Instagram: https://www.instagram.com/_ssilva2k.25/
+### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 ```
